@@ -1,5 +1,5 @@
 _repo: The-Country-of-Sir-Walter-Scott_54980
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator: &id001
     agent_name: Olcott, Charles S. (Charles Sumner)
@@ -8,9 +8,14 @@ contributor:
     deathdate: 1935
     gutenberg_agent_id: '38001'
     url: http://www.gutenberg.org/2009/agents/38001
+covers:
+- cover_type: archival
+  image_path: 54980-h/images/img-cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54980#The-Country-of-Sir-Walter-Scott
 gutenberg_issued: '2017-06-26'
 gutenberg_type: Text
 identifiers:
